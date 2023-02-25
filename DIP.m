@@ -1,3 +1,8 @@
+%% NAME - VAISHNAVI RAVIRAJ MANE
+%% TY -ENTC
+%% DIGIRAL IMAGE PROCESSING
+
+
 %% Read and Show Input Image
 image = imread('Image 2.jpg'); % Read Image
 figure, imshow(image); % Show Image
